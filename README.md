@@ -9,3 +9,10 @@ Conditional Formatting
 KPI Cards
 Interactive Reports
 Data Cleaning & Transformation
+
+## Dashboard
+<img width="1496" height="643" alt="image" src="https://github.com/user-attachments/assets/dfd97955-fbff-4f0d-b81d-7665f2f71c1e" /><br>
+
+## Invoice 
+<img width="842" height="646" alt="image" src="https://github.com/user-attachments/assets/f282e168-bd8c-466e-a6dd-736474401429" />
+
